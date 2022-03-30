@@ -3,22 +3,3 @@ Kollam
 Mumbai
 Banglore
 Hyderabad
-<<<<<<< Updated upstream
-=======
-Delhi
-Kolkata
-Indore
-Lucknow
-Thrissur
-Madurai
-Coimbatore
-Lucknow
-Jabalpur
-Raipur
-
-
-Tokyo 
-Jakarta 
-Chongqing
-Delhi
->>>>>>> Stashed changes
